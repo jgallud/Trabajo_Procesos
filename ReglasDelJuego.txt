@@ -1,18 +1,23 @@
 Triviados:
 
--  Un juego sobre un tablero en el que participan dos jugadores
+-  Un juego sobre un tablero en el que participan de 2 a 6 jugadores
 	-Se usa el tablero del trivial
 
-- La tematica del juego es ... (series, cine, ...)
+- La temática del juego es: ciencia y tecnología, literatura, historia, espectáculos, deportes, geografía.
+
 - Fichas: 
-	- cada ficha tiene 7 huecos
-	- color
-	- tematica
+	- cada ficha tiene 6 huecos por cada tema de los mencionados en la temática
+	- quesitos
+	
+- Tiempo: 30 segundos para responder.
+	
 - Turnos:
-	- Cuando un falla pierde turno	
+	- Cuando un jugador falla pierde turno.
+	- Cuando un jugador acierta vuelve a tirar.
+	- Cuando a un jugador se le pasa el tiempo es como si fallara, pierde turno.
 
 - Casillas:
-	- Con tematica sin queso (24)
+	- Con temática sin queso (24)
 	- Volver a tirar (10)
 	- Con tematica con queso (7)
 	- Casilla duelo (2)
